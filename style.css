@@ -1,0 +1,24 @@
+body {
+    width: 350px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+#output {
+    white-space: pre-wrap;
+    font-size: 14px;
+}
